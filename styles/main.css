@@ -95,7 +95,7 @@ nav a:focus {
     border: 1px solid var(--secondary-color);
     border-radius: 10px;
     padding: 10px 20px;
-    margin-right: 25px;
+    margin: 0 12.5px;
     width: auto;
     background: var(--background);
     box-shadow: var(--box-shadow);
